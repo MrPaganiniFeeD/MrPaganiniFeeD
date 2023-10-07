@@ -5,5 +5,5 @@
 
 - 🔭 Im currently working on something so cool
 - 🌱 I’m currently learning Unity, C#, Python
-- 💬 Ask me about anything related to Games, LevelDesign, Architecture
+- 💬 Ask me about anything related to Games, LevelDesign, Architecture, Music, History, Work
 - ⚡ Fun fact: I<3math
