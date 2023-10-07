@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-![github-header-image (6)](https://github.com/MrPaganiniFeeD/MrPaganiniFeeD/assets/75575566/af11ceea-cb17-4212-989e-3f6387eed76f)
+![github-header-image (7)](https://github.com/MrPaganiniFeeD/MrPaganiniFeeD/assets/75575566/5a67ef1f-08cc-4d15-8d5f-27588f9f9430)
 
 - 🔭 Im currently working on something so cool
 - 🌱 I’m currently learning Unity, C#, Python
