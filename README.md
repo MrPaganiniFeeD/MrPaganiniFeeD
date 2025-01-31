@@ -1,10 +1,9 @@
 
 ### Hi there 👋
 
-![github-header-image (7)](https://github.com/MrPaganiniFeeD/MrPaganiniFeeD/assets/75575566/5a67ef1f-08cc-4d15-8d5f-27588f9f9430)
 
 - 🔭 Im currently working on something so cool
-- 🌱 I’m currently learning Unity, C#, Python
+- 🌱 I’m currently learning ML, Python, Math, C#
 - 💬 Ask me about anything related to Games, LevelDesign, Architecture, Music, History, Work
 - ⚡ Fun fact: I<3math
 - 📩 mrpaganinifeed@gmail.com
