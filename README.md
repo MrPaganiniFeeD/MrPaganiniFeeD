@@ -4,7 +4,6 @@
 
 - 🔭 Im currently working on something so cool
 - 🌱 I’m currently learning ML, Python, Math, C#
-- 💬 Ask me about anything related to Games, LevelDesign, Architecture, Music, History, Work
 - ⚡ Fun fact: I<3math
 - 📩 mrpaganinifeed@gmail.com
 
